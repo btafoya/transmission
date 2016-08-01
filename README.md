@@ -19,9 +19,15 @@ Install through [Composer](https://getcomposer.org):
 
 ```json
 {
-  "require": {
-    "vohof/transmission": "1.0.*"
-  }
+    "repositories": [  
+        {  
+            "type": "vcs",  
+            "url": "https://github.com/btafoya/transmission"  
+        }  
+    ], 
+    "require": {
+        "vohof/transmission": "1.0.*"
+    }
 }
 ```
 
