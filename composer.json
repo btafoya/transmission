@@ -1,11 +1,19 @@
 {
-  "name": "vohof/transmission",
+  "name": "btafoya/transmission",
   "description": "Awesome PHP JSON-RPC client library for Transmission",
   "keywords": ["laravel", "transmission", "rpc", "json-rpc"],
   "authors": [
     {
       "name": "Cyrus David",
       "email": "david@jcyr.us"
+    },
+    {
+      "name": "tylergets",
+      "website": "https://github.com/tylergets"
+    },
+    {
+      "name": "Brian Tafoya",
+      "email": "btafoya@briantafoya.com"
     }
   ],
   "require": {
